@@ -1,0 +1,66 @@
+div.container {
+    width: 100%;
+    border: 20px solid gray;
+    background-color: solid gray;
+}
+
+header {
+    max-width: 100%;
+    border: 10px solid gray;
+    padding: 1px;
+    margin: 0;
+    color: black;
+    text-align: center;
+    background-color: white
+}
+
+nav {
+    max-width: 100%;
+    border: 10px solid gray;
+    padding: 1px;
+    margin: 0;
+    color: black;
+    padding: 1px;
+    text-align: center;
+}
+
+section {
+    float: left;
+    text-align: center;
+    border: 10px solid gray;
+    width: 47.5%;
+    margin: 0;
+    padding: 1px;
+    color: black;
+}
+
+article {
+    text-align: center;
+    border: 10px;
+    width: 100%;
+    margin: 0;
+    padding: 1px;
+    color: black;
+    background-color: gray;
+}
+
+
+aside {
+    float: left;
+    text-align: center;
+    width: 47.5%;
+    height: 225px;
+    border: 10px solid gray;
+    padding: 1px;
+    margin: 0;
+    color: black;
+}
+
+footer {
+    max-width: 100%;
+    padding: 1px;
+    border: 10px solid gray;
+    color: black;
+    text-align: center;
+    clear: both;
+}
